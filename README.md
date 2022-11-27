@@ -14,7 +14,3 @@ Link del evento: [Compose Camp 2022](https://kotlinlapaz.github.io/ComposeCamp/)
 - Magnific-popup
 - Owl Carousel
 - Animate.css
-
-### Autor
-
-- Gustavo Lizárraga [@lizarragadev](https://github.com/lizarragadev)
