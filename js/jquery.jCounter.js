@@ -29,11 +29,11 @@
 			callback: null,
 			customDuration: null,
 			customRange: null,
-			date: null,
+			date: '03 december 2022 9:00:00',
 			debugLog: false,
 			serverDateSource: 'dateandtime.php', //path to dateandtime.php file (i.e. http://my-domain.com/dateandtime.php)
 			format: 'dd:hh:mm:ss',
-			timezone: 'Europe/London',
+			timezone: 'America/Lima',
 			twoDigits: 'on'
 		};
 
