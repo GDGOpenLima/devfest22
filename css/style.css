@@ -490,6 +490,17 @@ img.pull-right {
     .header ul.navbar-nav > li.header-ticket .ticket-btn:hover {
       background: #3a6af0; }
 
+.header ul.navbar-nav > li.header-live {
+        margin-top: 15px; }
+        .header ul.navbar-nav > li.header-live .live-btn {
+          height: 40px;
+          line-height: 40px;
+          padding: 0px 25px;
+          /* background: #00c1c1; */
+          margin-left: 30px; }
+          .header ul.navbar-nav > li.header-live .live-btn:hover {
+            background: #ff0763; }
+
 .header ul.navbar-nav li .dropdown-menu {
   padding: 10px 20px;
   min-width: 230px;
