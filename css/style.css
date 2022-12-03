@@ -568,6 +568,18 @@ img.pull-right {
     .header.header-classic ul.navbar-nav > li.header-ticket .ticket-btn:hover {
       -webkit-box-shadow: none;
       box-shadow: none; }
+      .header.header-classic ul.navbar-nav > li.header-live .live-btn {
+        background: transparent !important;
+        color: #fff; }
+        .header.header-classic ul.navbar-nav > li.header-live .live-btn:before {
+          left: 0px;
+          top: 0px;
+          height: 40px;
+          padding: 0 25px;
+        }
+        .header.header-classic ul.navbar-nav > li.header-live .live-btn:hover {
+          -webkit-box-shadow: none;
+          box-shadow: none; }
 
 .header.sticky {
   position: fixed;
