@@ -490,6 +490,9 @@ img.pull-right {
       background: #3a6af0; }
 
 .header ul.navbar-nav > li.header-live { margin-top: 15px; }
+.header ul.navbar-nav > li.header-live > a:hover {
+  background: #ff0763;
+}
 .header ul.navbar-nav > li.header-live .live-btn {
           height: 40px;
           line-height: 40px;
