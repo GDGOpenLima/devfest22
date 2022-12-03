@@ -476,8 +476,7 @@ img.pull-right {
   text-transform: uppercase;
   padding: 0 20px;
   display: block; }
-  .header ul.navbar-nav > li > a:hover {
-    color: #4889F4; }
+  
 
 .header ul.navbar-nav > li.header-ticket {
   margin-top: 15px; }
